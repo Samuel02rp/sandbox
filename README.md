@@ -1,3 +1,3 @@
 # sandbox
-	Prueba 1
+Prueba 1
 Proyecto para hacer preuebas.
